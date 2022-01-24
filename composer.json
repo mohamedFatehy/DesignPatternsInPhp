@@ -1,0 +1,16 @@
+{
+    "name": "headfirst/design-patterns-in-php",
+    "description": "Design Patterns Implementation in php",
+    "autoload": {
+        "psr-4": {
+            "DesignPatternsInPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohamed fathy",
+            "email": "dev.mohamed.fatehy@gmail.com"
+        }
+    ],
+    "require": {}
+}
