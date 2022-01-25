@@ -12,5 +12,8 @@
             "email": "dev.mohamed.fatehy@gmail.com"
         }
     ],
-    "require": {}
+    "license": "MIT",
+    "require": {
+        "php": "^7.4|8.0"
+    }
 }
