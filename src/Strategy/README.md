@@ -6,7 +6,7 @@
 Define Family of Algorithms,
 Encapsulate each one, and make then interchangeable.
 
-Strategy lets the algorithm vary from clients that use it
+Strategy lets the algorithm vary independently from clients that use it
 
 
 ----
