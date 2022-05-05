@@ -1,13 +1,11 @@
 # Head First Design Pattern (in php)
 
 
-## Strategy Pattern
+## Factory Method
 
-Define Family of Algorithms,
-Encapsulate each one, and make then interchangeable.
-
-Strategy lets the algorithm vary independently from clients that use it
-
+defines an interface for creating an object, but lets subclasses decide which
+class to instantiate. Factory Method lets a class defer
+instantiation to subclasses.
 
 ----
 
