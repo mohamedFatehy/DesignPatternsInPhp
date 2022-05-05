@@ -1,11 +1,13 @@
 # Head First Design Pattern (in php)
 
 
-## Observer Pattern
+## Simple Factory
 
-Define One to Many Dependency between objects so that when one object changes state,
+A factory is an object for creating other objects
 
-All it's dependents are modified and updated automatically
+In simple factory pattern, we have a factory class which has a method that returns different types of object based on given input.
+
+
 
 ----
 
