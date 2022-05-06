@@ -1,11 +1,10 @@
 # Head First Design Pattern (in php)
 
 
-## Factory Method
+## Abstract Factory
 
-defines an interface for creating an object, but lets subclasses decide which
-class to instantiate. Factory Method lets a class defer
-instantiation to subclasses.
+provides an interface for creating families of related or dependent objects
+without specifying their concrete classes.
 
 ----
 
