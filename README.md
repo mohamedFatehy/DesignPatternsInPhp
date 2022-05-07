@@ -7,6 +7,7 @@
 - Observer Pattern
 - Decorator Pattern
 - Factory Pattern (simple,method,abstract)
+- Singleton
 
 
 ## Design Principles

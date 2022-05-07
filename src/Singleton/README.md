@@ -1,12 +1,10 @@
 # Head First Design Pattern (in php)
 
 
-## Simple Factory
+## Singleton Factory
 
-A factory is an object for creating other objects
-
-In simple factory pattern, we have a factory class which has a method that returns different types of object based on given input.
-
+ensures a class has only one
+instance, and provides a global point of access to it.
 
 
 ----
