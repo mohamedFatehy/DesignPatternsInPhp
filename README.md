@@ -8,6 +8,7 @@
 - Decorator Pattern
 - Factory Pattern (simple,method,abstract)
 - Singleton
+- Command
 
 
 ## Design Principles
