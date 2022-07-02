@@ -10,7 +10,7 @@
 - Singleton Pattern
 - Command Pattern
 - Adapter Pattern
-
+- Facade Pattern
 
 ## Design Principles
 
@@ -20,3 +20,4 @@
 - Strive For Loosely Coupled Design Between Objects That Interact.
 - Classes Should Be Open For Extension But Closed For Modification.
 - Depend on Abstraction. Don't Depend On Concrete Classes.
+- Principle of Least Knowledge: talk only to your immediate friends.
